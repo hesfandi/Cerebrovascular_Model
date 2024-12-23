@@ -19,7 +19,7 @@ This repository contains MATLAB scripts for the in-silico design and simulation 
    - Includes example scripts (prefixed with `Run_`) for analyzing and plotting simulation results. These scripts provide guidance for interpreting the outputs of the cerebrovascular model.
 
 4. **Hemodynamic_Analysis/**
-   - Contains scripts for simulating and analyzing hemodynamic properties within the designed cerebrovascular model.
+   - Contains scripts for simulating blood circulation within the designed cerebrovascular model.
 
 ## Usage Instructions
 1. **Software Requirements**
@@ -34,7 +34,7 @@ This repository contains MATLAB scripts for the in-silico design and simulation 
 
 ## Citation
 If you use these scripts in your research, please cite the associated publication:
-Esfandi, H., Javidan, M., Anderson, R. M., & Pashaie, R. (Year). Depth-Dependent Contributions of Various Vascular Zones to Cerebral Autoregulation and Functional Hyperemia: An In-Silico Analysis. Journal Name. [DOI Placeholder]
+Esfandi, H., Javidan, M., Anderson, R. M., & Pashaie, R. . Depth-Dependent Contributions of Various Vascular Zones to Cerebral Autoregulation and Functional Hyperemia: An In-Silico Analysis. Journal Name. [DOI Placeholder]
 
 ## License
 This code is shared under the **MIT License**. For details, please refer to the LICENSE file in this repository.
